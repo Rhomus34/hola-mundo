@@ -1,0 +1,26 @@
+MIT No AS-IS License
+
+Copyright (c) 2026 Vicentte Felipe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+MAINTENANCE AND SUPPORT COMMITMENT:
+Unlike traditional permissive licenses, this software is not provided "as-is." 
+The maintainers are committed to the active improvement of this codebase. 
+We pledge to review bug reports, address technical issues, and implement 
+enhancements to ensure the software remains functional and valuable for the 
+community. While no software can be guaranteed to be entirely error-free, 
+we dedicatedly support the growth and stability of this project.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE 
+USE OR OTHER DEALINGS IN THE SOFTWARE.
